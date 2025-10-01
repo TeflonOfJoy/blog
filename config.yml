@@ -1,4 +1,4 @@
-baseURL: "https://blog.teflonofjoy.com/"
+baseURL: "https://blog.teflonofjoy.dev/"
 title: Re:Furbed - Starting a Blog in Another World
 pagination:
   pagerSize: 5
@@ -6,7 +6,7 @@ theme: ["hugo-shortcode-roneo-collection","hugo-simplecite","PaperMod"]
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-buildDrafts: true
+buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true

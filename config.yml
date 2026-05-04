@@ -113,7 +113,7 @@ params:
   description: "A weekly journey through scientific discoveries and insightful reflections, exploring the intricate connections between technology, travel, and the nuances of everyday life."
   author: TeflonOfoy
 
-  defaultTheme: dark # dark, light, auto
+  defaultTheme: auto # dark, light, auto
   displayFullLangName: true
   ShowReadingTime: true
   ShowShareButtons: false
